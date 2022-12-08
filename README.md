@@ -1,7 +1,8 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQErPpeVpZWWPA/profile-displaybackgroundimage-shrink_350_1400/0/1665644134393?e=1675900800&v=beta&t=ePBj9N5zlAiiG09hAaq9RIq8mb4MH5N18GoM2Yk8gCk)](https://www.linkedin.com/in/bayu-anggoro-53204b250/)
+[![MasterHead](https://ibb.co/txFDtXX)]([https://rishavchanda.io](https://www.linkedin.com/in/bayu-anggoro-53204b250/))
 <h1 align="center">Hi 👋, I'm Ebayyou</h1>
 <h3 align="center">Focus on what makes you happy, relax for a moment, and like a game-,</h3>
-<img align="right" alt="Moon" width="400" src="https://img.freepik.com/free-vector/astronaut-playing-skateboard-moon-cartoon-vector-icon-illustration-science-sport-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3396.jpg?w=826&t=st=1670491293~exp=1670491893~hmac=8c60a91f6b561867e2fcdeba65f13056448d18bafe95b60239e19aac25698939">
+<img align="right" alt="Moon" width="400" src="https://ibb.co/2Yv20ZK">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebayyou&label=Profile%20views&color=0e75b6&style=flat" alt="ebayyou" /> </p>
 
