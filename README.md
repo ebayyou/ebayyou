@@ -1,7 +1,7 @@
-[![MasterHead](https://ibb.co/txFDtXX)]([https://rishavchanda.io](https://www.linkedin.com/in/bayu-anggoro-53204b250/))
+[![MasterHead](https://i.ibb.co/CMDQZ22/background.jpg)]([https://rishavchanda.io](https://www.linkedin.com/in/bayu-anggoro-53204b250/))
 <h1 align="center">Hi 👋, I'm Ebayyou</h1>
 <h3 align="center">Focus on what makes you happy, relax for a moment, and like a game-,</h3>
-<img align="right" alt="Moon" width="400" src="https://ibb.co/2Yv20ZK">
+<img align="right" alt="Moon" width="400" src="https://i.ibb.co/BKyDHns/3700-4-09-prev-ui.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebayyou&label=Profile%20views&color=0e75b6&style=flat" alt="ebayyou" /> </p>
