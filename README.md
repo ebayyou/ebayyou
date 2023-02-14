@@ -3,7 +3,7 @@
 <h3 align="center">Focus on what makes you happy, relax for a moment, and like a game-,</h3>
 <img align="right" alt="Moon" width="400" src="https://i.ibb.co/BKyDHns/3700-4-09-prev-ui.png">
 
-- 🔭 I’m currently working on [tokopunyaku-app](https://github.com/ebayyou/tokopunyaku-app)
+- 🔭 I’m currently working on [digiforum-app](https://github.com/ebayyou/digiforum-app)
 
 - 🌱 I’m currently learning **React JS**
 
