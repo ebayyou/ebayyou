@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![TECH STACK](https://skills.thijs.gg/icons?i=html,css,sass,js,react,vue,git,figma)](https://www.linkedin.com/in/bayu-anggoro-53204b250/)
+[TECH STACK](https://skills.thijs.gg/icons?i=html,css,sass,js,react,vue,git,figma)](https://www.linkedin.com/in/bayu-anggoro-53204b250/)
 
 <br />
 <br />
