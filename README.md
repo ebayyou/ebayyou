@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/CMDQZ22/background.jpg)]([https://rishavchanda.io](https://www.linkedin.com/in/bayu-anggoro-53204b250/))
+[![MasterHead](https://i.ibb.co/CMDQZ22/background.jpg)](https://www.linkedin.com/in/bayu-anggoro-53204b250/)
 <h1 align="center">Hi 👋, I'm Ebayyou</h1>
 <h3 align="center">Focus on what makes you happy, relax for a moment, and like a game-,</h3>
 <img align="right" alt="Moon" width="400" src="https://i.ibb.co/BKyDHns/3700-4-09-prev-ui.png">
@@ -22,6 +22,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![TECH STACK](https://skills.thijs.gg/icons?i=html,css,sass,js,react,vue,git,figma)](https://skills.thijs.gg)
+[![TECH STACK](https://skills.thijs.gg/icons?i=html,css,sass,js,react,vue,git,figma)](https://www.linkedin.com/in/bayu-anggoro-53204b250/)
+
+<br />
+<br />
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebayyou&show_icons=true&locale=en&layout=compact" alt="ebayyou" /></p>
